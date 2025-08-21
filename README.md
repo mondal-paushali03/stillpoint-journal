@@ -51,3 +51,6 @@ npm start
 - Backend: Node.js
 - AI/NLP: HuggingFace / Transformers
 - Database: Supabase
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
